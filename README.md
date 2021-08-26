@@ -4,7 +4,7 @@
   <summary>
   Read About Me
   </summary>
-  I'm Kaleigh
+  I'm a new developer with a passion in traveling, snowboarding, and playing the piano. Fully Kenzie Made and enjoying every minute of it.
 </details>
 
 <!--
