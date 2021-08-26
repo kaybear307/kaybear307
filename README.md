@@ -2,8 +2,9 @@
 
 <details>
   <summary>
-  I'm a new Developer 
+  Read About Me
   </summary>
+  I'm Kaleigh
 </details>
 
 <!--
