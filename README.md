@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Kaleigh 👋
+
+<details>
+  <summary>
+  I'm a new Developer 
+  </summary>
+</details>
 
 <!--
 **kaybear307/kaybear307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
